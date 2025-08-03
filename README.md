@@ -27,4 +27,8 @@ Data Module connection in Power BI.
 Convert goal in to US Doller Sign. 
 
 #Source ;- https://www.kaggle.com/datasets/kemical/kickstarter-projects
-# Dashboard Screenshort :-[[ (https://github.com/vishwanath-kalshetty/Crowdfunding/blob/main/CrowdFunding%20Power%20Bi%20Dashboard.PNG](url))](https://github.com/vishwanath-kalshetty/Crowdfunding/blob/main/CrowdFunding%20Power%20Bi%20Dashboard.PNG)
+# Dashboard Screenshort:- (https://github.com/vishwanath-kalshetty/Crowdfunding/blob/main/CrowdFunding%20Power%20Bi%20Dashboard.PNG)
+
+
+<img width="1322" height="686" alt="image" src="https://github.com/user-attachments/assets/c8564b77-1e7d-4c57-9555-6517428ee644" />
+
