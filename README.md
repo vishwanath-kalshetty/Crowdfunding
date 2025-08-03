@@ -1,10 +1,13 @@
 **Project Title # Crowdfunding**
+
 Interactive Dashboard of Power BI of Crowdfunding project-data cleaning using SQL 
 
 **Purpose** 
+
 📊 Kickstarter Crowdfunding Dashboard A data-driven Power BI dashboard analyzing 335K Kickstarter projects. Visualizes success rates, funding trends, and category performance across countries and goal ranges. Offers actionable insights into campaign outcomes, top-performing categories, and yearly success variations.
 
 **Software Used **
+
 Data cleaned with the help of SQL, Date formate from epoch to normal time, 
 Date Extraction
 Build a Calendar Table using the Date Column Created Date ( Which has Dates from Minimum Dates and Maximum Dates)
@@ -24,4 +27,4 @@ Data Module connection in Power BI.
 Convert goal in to US Doller Sign. 
 
 #Source ;- https://www.kaggle.com/datasets/kemical/kickstarter-projects
-# Dashboard Screenshort :- (https://github.com/vishwanath-kalshetty/Crowdfunding/blob/main/CrowdFunding%20Power%20Bi%20Dashboard.PNG)
+# Dashboard Screenshort :-[ (https://github.com/vishwanath-kalshetty/Crowdfunding/blob/main/CrowdFunding%20Power%20Bi%20Dashboard.PNG](url))
